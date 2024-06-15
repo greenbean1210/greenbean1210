@@ -12,12 +12,14 @@
 
 ### About Me
 
-**Korean High school student**!
+**Korean high school student** 🇰🇷📚
 
-- **Python enthusiast**
-- **Discord bot developer**
-- **Interested in AI (GPT/Stable diffusion/RVC/VALL-E)**
-- **3D Printing**
+- **Python enthusiast** 🔥
+- **Discord bot developer** 🛠️
+- **Interested in AI (GPT/Stable diffusion/RVC/VALL-E)** ✨
+- **3D Printing enthusiast** ⭐️
+- **Spaghetti code generator** 🍝
+- **Inefficient code production specialist** 😎
 
 ---
 

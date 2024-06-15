@@ -12,7 +12,7 @@
 
 ### About Me
 
-**Korean high school student** 🇰🇷📚
+**A Korean high school student** 🇰🇷📚
 
 - **Python enthusiast** 🔥
 - **Discord bot developer** 🛠️

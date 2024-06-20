@@ -16,7 +16,7 @@
 
 - **Python enthusiast** 🔥
 - **Discord bot developer** 🛠️
-- **Interested in AI (GPT/Stable diffusion/RVC/VALL-E)** ✨
+- **Interested in AI ✨ (LLM/Stable diffusion/RVC/VALL-E/VITS/TF)**
 - **3D Printing enthusiast** ⭐️
 - **Spaghetti code generator** 🍝
 - **Inefficient code production specialist** 😎

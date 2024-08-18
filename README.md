@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:86d95e,100:5dc965&height=300&section=header&text=/Greenbean&fontSize=90&stroke=129234&strokeWidth=1&animation=fadeIn&rotate=2)
+<!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=0:86d95e,100:5dc965&height=300&section=header&text=/Greenbean&fontSize=90&stroke=129234&strokeWidth=1&animation=fadeIn&rotate=2) -->
 
 # 👋 Hi, I'm Greenbean/완두콩!
 

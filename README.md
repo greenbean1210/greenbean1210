@@ -27,4 +27,4 @@
 
 - **Discord**: apple_visionpro
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d)
-- **Telegram**: [greenbean1210](https://t.me/greenbean1210)
+

@@ -50,7 +50,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### *Childhood Memories*
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-ECA742?style=for-the-badge&logo=scratch&logoColor=white)
 *(My first step into programming! 🧒💻)*
 
 ## SBC Enthusiasm - Praise the Mighty SBC! 🖥️ 🔧

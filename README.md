@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Greenbean / WDK (완두콩)!
 
-<div align="left" style="margin-top: 20px;">
-  <img src="https://i.ibb.co/ggvLhgr/821c982593a8817d32d910f75b930817.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 2px solid #5dc965;">
-</div>
-
 
 
 ## About Me

@@ -6,7 +6,7 @@
 
 ## About Me
 
-### A high school student from Korea 🇰🇷📚
+### A Korean high school student 🇰🇷📚
 
 - **Python enthusiast** 🔥
 - **Discord bot developer** 🛠️

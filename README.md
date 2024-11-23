@@ -60,9 +60,7 @@ I absolutely love Single Board Computers (SBCs)! They are tiny, powerful, and ve
 - **Silent Workhorses**: These little guys can run 24/7 without making a sound. Perfect for my home server setup! 🤫
 - **Endless Possibilities**: From running a web server to hosting a VPN and even tinkering with AI models, there’s nothing these tiny titans can’t do! 🌐🤖
 
-SBCs are not just devices; they are companions in my tech journey. If only I could build a whole data center out of them! (Just kidding… or am I? 😏)
-
-*(Long live the SBCs!)*
+SBCs are not just devices; they are companions in my tech journey. If only I could build a whole data center out of them.. 
 
 ## Contact Me
 

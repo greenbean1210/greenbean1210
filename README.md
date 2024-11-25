@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Greenbean / WDK (완두콩)!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=greenbean1210&theme=soft-green&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=greenbean1210&theme=github-dark-blue&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ## About Me
 

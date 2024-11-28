@@ -52,22 +52,11 @@
 ![Scratch](https://img.shields.io/badge/Scratch-ECA742?style=for-the-badge&logo=scratch&logoColor=white)
 *(My first step into programming! 🧒💻)*
 
-## SBC Enthusiasm - Praise the Mighty SBC! 🖥️ 🔧
-I absolutely love Single Board Computers (SBCs)! They are tiny, powerful, and versatile. I have even set up a mini server at home using various SBCs. Here’s why I can’t stop praising these little wonders:
-
-- **Small but Mighty**: Who needs a bulky server when you have SBCs? They are compact, energy-efficient, and capable of handling so much more than their size suggests! 🚀
-- **Cost-Effective Powerhouses**: With SBCs, I get to experiment with different projects without breaking the bank. More gadgets, less money! 💰
-- **Silent Workhorses**: These little guys can run 24/7 without making a sound. Perfect for my home server setup! 🤫
-- **Endless Possibilities**: From running a web server to hosting a VPN and even tinkering with AI models, there’s nothing these tiny titans can’t do! 🌐🤖
-
-SBCs are not just devices; they are companions in my tech journey. If only I could build a whole data center out of them.. 
-
 ## Contact Me
 
 - **Discord**: apple_visionpro
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d) - 3D Printing Channel
-- **Email**: greenbean@greenbean.cc *(Currently only able to **receive** emails, I can't send them yet)*
-
+- ~~**Email**: greenbean@greenbean.cc~~
 
 
 ## Hits

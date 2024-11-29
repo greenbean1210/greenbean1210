@@ -56,7 +56,7 @@
 
 - **Discord**: apple_visionpro
 - **YouTube**: [완두콩의 3D프린팅](https://www.youtube.com/@greenbean3d) - 3D Printing Channel
-- ~~**Email**: greenbean@greenbean.cc~~
+- **Email**: greenbean@greenbean.cc
 
 
 ## Hits
